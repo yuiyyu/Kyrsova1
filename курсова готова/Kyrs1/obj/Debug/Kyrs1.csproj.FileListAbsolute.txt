@@ -1,0 +1,74 @@
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\bin\Debug\Kyrs1.exe.config
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\bin\Debug\Kyrs1.exe
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\bin\Debug\Kyrs1.pdb
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.csproj.AssemblyReference.cache
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.createTree.resources
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.mainForm.resources
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.Properties.Resources.resources
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.csproj.GenerateResource.cache
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.csproj.CoreCompileInputs.cache
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.exe
+C:\AllFiles\cnulabs\cnulabs\OOP\Курсач\new\Kyrs1\obj\Debug\Kyrs1.pdb
+C:\Users\Ivanchik\Desktop\new\Kyrs1\bin\Debug\Kyrs1.exe.config
+C:\Users\Ivanchik\Desktop\new\Kyrs1\bin\Debug\Kyrs1.exe
+C:\Users\Ivanchik\Desktop\new\Kyrs1\bin\Debug\Kyrs1.pdb
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.csproj.AssemblyReference.cache
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.createTree.resources
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.mainForm.resources
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.Properties.Resources.resources
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.csproj.GenerateResource.cache
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.csproj.CoreCompileInputs.cache
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.exe
+C:\Users\Ivanchik\Desktop\new\Kyrs1\obj\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\4\new\Kyrs1\bin\Debug\Kyrs1.exe.config
+C:\Users\ssfd\Desktop\4\new\Kyrs1\bin\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\4\new\Kyrs1\bin\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.csproj.AssemblyReference.cache
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.createTree.resources
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.mainForm.resources
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.Properties.Resources.resources
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.csproj.GenerateResource.cache
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.csproj.CoreCompileInputs.cache
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.signForm.resources
+C:\Users\ssfd\Desktop\4\new\Kyrs1\obj\Debug\Kyrs1.Register.resources
+C:\Users\ssfd\Desktop\new\Kyrs1\bin\Debug\Kyrs1.exe.config
+C:\Users\ssfd\Desktop\new\Kyrs1\bin\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\new\Kyrs1\bin\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.csproj.AssemblyReference.cache
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.createTree.resources
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.mainForm.resources
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.Properties.Resources.resources
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.Register.resources
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.signForm.resources
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.csproj.GenerateResource.cache
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.csproj.CoreCompileInputs.cache
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\new\Kyrs1\obj\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\bin\Debug\Kyrs1.exe.config
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\bin\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\bin\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.csproj.AssemblyReference.cache
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.createTree.resources
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.mainForm.resources
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.Properties.Resources.resources
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.Register.resources
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.signForm.resources
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.csproj.GenerateResource.cache
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.csproj.CoreCompileInputs.cache
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\new passwd\Kyrs1\obj\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\bin\Debug\Kyrs1.exe.config
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\bin\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\bin\Debug\Kyrs1.pdb
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.csproj.AssemblyReference.cache
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.createTree.resources
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.mainForm.resources
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.Properties.Resources.resources
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.Register.resources
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.signForm.resources
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.csproj.GenerateResource.cache
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.csproj.CoreCompileInputs.cache
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.exe
+C:\Users\ssfd\Desktop\new passwd1\Kyrs1\obj\Debug\Kyrs1.pdb

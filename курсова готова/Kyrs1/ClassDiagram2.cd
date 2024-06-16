@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kyrs1.createTree">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Kyrs1.createTree.template" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>createTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kyrs1.createTree.template_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>createTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kyrs1.createTree.template_2" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>createTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kyrs1.createTree.template_3" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>createTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kyrs1.createTree.Tree" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>createTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Kyrs1.createTree.TreeEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>createTree.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABBQAACACBACEgAIAIAAAEAAAIAAAAA=</HashCode>
+      <FileName>createTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.mainForm">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AygaCBAACCAEAAFUDAiCTAgCEQEIDDAAAUAxIQNuEAg=</HashCode>
+      <FileName>mainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.OpenForms">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAIAAAAAAAAAACAAAAAAAAQAAA=</HashCode>
+      <FileName>OpenForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.Program" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.Register">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAACAAABAAAACQAAAiAAgACQEEAAAAAAAAAAA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.ScannerLogin">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScannerLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.ScannerPassword">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScannerPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.signForm">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Kyrs1.signForm.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>signForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACEAACwQABCAAACAQAADCAgBAAAFAAAAAAAAAAA=</HashCode>
+      <FileName>signForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kyrs1.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SHA128">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SHA128.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
